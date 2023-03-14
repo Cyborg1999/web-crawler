@@ -18,5 +18,8 @@
   "homepage": "https://github.com/Cyborg1999/web-crawler#readme",
   "devDependencies": {
     "jest": "^29.5.0"
+  },
+  "dependencies": {
+    "jsdom": "^21.1.1"
   }
 }
